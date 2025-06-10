@@ -53,10 +53,6 @@ The **optimized Prophet model**, with hyperparameters such as `changepoint_prior
 4. Configure **Binance API** credentials to access historical data.
 5. Run the notebooks to reproduce the analyses and predictions.
 
-### 🤝 Contributions
-
-Contributions are welcome! 🙌 If you wish to collaborate, please review the [contribution guidelines](CONTRIBUTING.md) and open a *pull request*.
-
 ---
 
 ⭐ If you like this project, don’t forget to give it a star on GitHub! ⭐
