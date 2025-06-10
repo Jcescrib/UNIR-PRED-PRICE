@@ -1,4 +1,3 @@
-```markdown
 # 📊 Cryptocurrency Price Prediction Models Analysis 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
@@ -61,4 +60,3 @@ Contributions are welcome! 🙌 If you wish to collaborate, please review the [c
 ---
 
 ⭐ If you like this project, don’t forget to give it a star on GitHub! ⭐
-```
