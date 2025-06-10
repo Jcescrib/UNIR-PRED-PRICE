@@ -53,9 +53,6 @@ El modelo **Prophet optimizado**, con hiperparámetros como `changepoint_prior_s
 4. Configura las credenciales de la **API de Binance** para obtener datos históricos.
 5. Ejecuta los notebooks para reproducir los análisis y predicciones.
 
-### 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! 🙌 Si deseas colaborar, por favor revisa las [guías de contribución](CONTRIBUTING.md) y abre un *pull request*.
 
 ---
 
